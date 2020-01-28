@@ -1,1 +1,1 @@
-Learning the basics of git
+Learning the basics of git, add text for end of git project
